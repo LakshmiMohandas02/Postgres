@@ -9,6 +9,8 @@ Establishing Connection:
 
 
 Table Creation:
+
+
 ![3  Create Subject](https://github.com/LakshmiMohandas02/Postgres/assets/121600298/2c02eb74-4a5f-4fb7-8127-e7306dff3983)
 
 
@@ -21,6 +23,8 @@ Insert & Select:
 
 
 Delete:
+
+
 ![7 delete](https://github.com/LakshmiMohandas02/Postgres/assets/121600298/d3509d74-7a6f-42d3-b99c-7a9a761d4158)
 
 
